@@ -1,0 +1,14 @@
+{
+  "name": "EEPROM_AT25C32",
+  "keywords": "EEPROM, AT25C32, Arduino, i2c, IIC",
+  "description": "Arduino library for AT25C32 IIC EEPROM chips",
+  "include": "libraries/AT25C32",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/RoaringBeluga/libraries.git"
+  },
+  "version":"1.0",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
